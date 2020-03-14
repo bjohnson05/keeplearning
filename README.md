@@ -1,4 +1,4 @@
-# keeplearning
+# KeepLearning
 Tips and Tricks from Dondi's Page, Tailored for Dr. Johnson's Classes
 
 ## Take Care of Yourself First
@@ -30,9 +30,9 @@ For all classes and other Zoom-related activities, we will use the following zoo
 
 Just click on the appropriate link in order to “attend class.” See [the last section of this document](#maximize-live-session-success-by-learning-how-to-control-your-feed) for some tips on getting the most out of this medium.
 
-For our first class session online, I plan to get everyone acquainted with the environment and field questions on this "temporary new normal".
+For our first class session online, I plan to give everyone time to get acquainted with the environment and answer any questions about this "temporary new normal" that I can.  Some experimentation will occur, and this is fine.
 
-There will be group sessions that will be used so you can have group time for your projects.  These are called "breakout rooms" in zoom.  I will set them up during class sessions.  This should facilitate you having time for team meetings and so forth.
+There will be group sessions that will be used so you can have group time for your projects.  These are called "**breakout rooms**" in zoom.  I will set them up during class sessions.  This should facilitate you having time for team meetings and so forth.  It's a rather laborious process, so patience is appreciated.  If you wish, you can start your own zoom session and do things there.
 
 #### Time Zone Differences
 For students who will be living in different time zones, connecting to the live sessions and office hours may become infeasible (unless you are truly a night denizen and can now live by your true body clock 🌒🌔🌕🌖🌘).
@@ -43,44 +43,58 @@ For office hours and other direct interactions, the following options are availa
 
 * Individual appointments for an online session via zoom
 * Email at mailto:robert.johnson@lmu.edu
-* Slack at the appropriate LMUCS channel or in the # general channel
+* Slack at the appropriate LMUCS channel or in the #general channel
 
 With all of this stuff going on, we need to have a baseline time zone.  Since this is LMU, I will use Pacific time by default, so please bear that in mind if I state a date and time without being specific about time zone.
 
 ### Office Hours
-I will continue to be available at my pre-scheduled office hours.  The only change is that, instead of physically going to my office, you would just go to the aforementioned Zoom link: https://lmula.zoom.us/my/dondi
+I will continue to be available at my pre-scheduled office hours:
+* Tuesday 10:00 to 12:30
+* Tuesday 14:30 to 17:30
+* Wednesday 14:30 to 17:30
+* Thursday 10:00 to 12:30
+* Thursday 14:30 to 17:30
 
-Yup, it’s the same one that I’ll be using for class.
+The only change is that, instead of physically going to my office, you would just go to the following zoom link:  https://lmula.zoom.us/my/bjohnson05 Copy the invitation
 
-Further, I will remain reachable (as before) via email (dondi@lmu.edu) or Slack (@dondi in the [Slack LMUCS workspace](https://lmucs.slack.com)).
+This is NOT the same one that I’ll be using for class, since each class has its own zoom link as you can see above.
+
+Further, I will remain reachable (as before) via email (mailto:robert.johnson@lmu.edu) or Slack (@beej in the [Slack LMUCS workspace](https://lmucs.slack.com)).
 
 #### Office Hours for Students in a Different Time Zone
-As mentioned above, the regularly-scheduled office hour times might not work for students who are living in a different time zone. In those situations, please avail of the three possibilities listed above. Baseline rule: Maintain open, multiple communication channels. We will adjust as needed.
+As mentioned above, the regularly-scheduled office hour times might not work for students who are living in a different time zone. In those situations, please take advantage of the three possibilities listed above. Baseline rule: Maintain open, multiple communication channels. We will adjust as needed.
 
 ### Slack Channels
-Due to the anticipated increased use of Slack while we are fully online, I have created specific channels for our courses. This will help with putting related messages and threads together more easily. Do go to those channels and monitor them actively while we are in 100% online mode: [#cmsi284](https://lmucs.slack.com/archives/CV6PX0RBP) and [#cmsi355](https://lmucs.slack.com/archives/CV8KCB2HM), respectively.
+Due to the anticipated increased use of Slack while we are fully online, I have created specific channels for our courses. This will help with putting related messages and threads together more easily. **PLEASE go to those channels and monitor them actively** while we are in 100% online mode:
+* CMSI 186: #cmsi-186_03
+* CMSI 387: #cmsi-387_01
+* CMSI 402: #cmsi-402_01
+* CMSI 543 / SELP 657: #cmsi-543_SELP-657
 
 ## Online Presence Tips
-OK, so now we come to some slightly more general tips regarding life online. Some are practical, some are philosophical—all are based on things I’ve seen and experienced personally, so although they won’t all be absolutely true for everyone, they are indeed based on my own lived online reality (is that an oxymoron?) so far.
+OK, so now we come to some slightly more general tips regarding life online. Some are practical, some are philosophical; all are based on things I’ve seen and experienced recently as part of this process, so they won’t all be necessarily true for everyone, they do have some basis in fact.
 
 ### We’ll need to be flexible and go with the flow
-Stuff will glitch. Stuff will cut off. Stuff might crash. It’s all OK. When we’re online, it is understood that these things can happen. What helps us manage this?
+Stuff will glitch. Stuff will cut off. Stuff might crash. Stuff will die or barf.  It’s all OK.  When we’re online, it is understood that these things can happen.  What helps us manage this?
 * _Keep tabs on multiple means of communication whenever possible:_ If video stops working, there can still be audio. If audio breaks, there’s possibly chat. If the entire video app crashes, you can look at Slack and email. If all else fails, you can leave voicemail. Redundancy fosters resilience in this scenario.
 * _Watch your email closely than you usually do:_ Speaking of multiple means of communication, email is perhaps the bedrock of all online means of communication. It’s mature; it’s ubiquitous. Make sure that you have easy access to university email as much as possible.
 
 ### Online resources are finite, and these days, everyone will be using them
-All computing resources are finite (except for those in the theory of computation). Bandwidth is perhaps the prime resource that we’ll be consuming online. There are times when there won’t be enough of it or we will lose it outright.
+All computing resources are finite.  Bandwidth is perhaps the prime resource that we’ll be consuming online.  There are times when there won’t be enough of it or we will lose it outright.
 
-Class and office hour video sessions consume a lot of resources and may get glitchy or go down. You can try again as needed but don’t worry if you can’t reconnect; we’ll figure it out (see: multiple means of communication above).
+Class and office hour video sessions consume a lot of resources and may get glitchy or go down.  You can try again as needed but don’t worry if you can’t reconnect; we’ll figure it out (see: multiple means of communication above).
 
-As long as I am able to do so, I will continue to record things so that if you can’t attend synchronously, you can watch things later. The only thing you lose is that live, interactive element—which can be made up for during \[virtual\] office hours or via Slack. So bottom line: no worries, we’ll work something out.
+As long as I am able to do so, I will continue to record things so that if you can’t attend synchronously, you can watch things later (asynchronously). The only thing you lose is that live, interactive element ~ which can be made up for during \[virtual\] office hours or via Slack.  So bottom line: no worries, we’ll work something out.
 
 ### Maximize live session success by learning how to control your feed
-* It’s nice to see everyone’s faces while conducting a live session, but not at the cost of someone’s discomfort or insufficient bandwidth, so be cognizant of those factors and situate yourself as you see fit. I won’t mind either way.
-* In any case, do get familiar (and proficient) with the start/stop video button: You may want to turn the camera on when you talk, or you may want to have it on by default unless your connection gets shaky. Knowing how to toggle video with ease will be helpful here.
-* Depending on how many people are on live at the same time, ambient noise may build up or get distracting. To minimize this, also learn how to control your outgoing audio. The _Mute_ button is particularly useful. But don’t forget to unmute yourself either when you want to talk.
-* Again on the theme of multiple means of communication, find and use the Zoom chat panel—I’ll keep it open myself. You can type messages in here at any time. I might also switch to this if audio or video start to glitch.
-* Even with today’s high bandwidth, audio will have a slight delay—give people time to respond, perhaps speak a little more slowly, and pause a little more between sentences.
-* _Here’s something we can’t do in class easily:_ You can share your screen when needed! When asking a question, you have the option to take over the screen so you can demonstrate where you’re stuck firsthand. Get to know how to use the Share button in order to avail of this capability.
+* It’s nice to see everyone’s faces while conducting a live session, but not at the cost of someone’s discomfort or insufficient bandwidth, so be cognizant of those factors and situate yourself as you see fit.  I won’t mind either way.
+* In any case, do get familiar (and proficient) with the _Start/Stop Video_ button: You may want to use it to turn the camera on when you talk and off again when you listen, or you may want to have it on by default unless your connection gets janky.  Knowing how to toggle video with ease will be helpful.
+* Depending on how many people are on live at the same time, ambient noise may build up or get distracting.  To minimize this, also learn how to control your outgoing audio.  The _Mute_ button is particularly useful, but don’t forget to unmute yourself when you want to talk.  The zoom app may even remined you after the first few words ~ this happens to me a lot on my mac in the office.
+* Again on the theme of multiple means of communication, find and use the zoom chat panel ~ I’ll keep it open myself.  You can type messages in here at any time, either to an individual or to the group.  I might also switch to this if audio or video start to glitch.
+* Even with today’s high bandwidth, audio will sometimes have a slight delay ~ patience is a virtue ~ so give people time to respond, perhaps speak a little more slowly, and pause a little more between sentences.  You don't have to yell, but speak clearly.
+* _Here’s something we can’t do in class easily:_ You can share your screen when needed!  When asking a question, you have the option to take over the screen so you can demonstrate where you’re stuck firsthand.  Get to know how to use the Share button in order to avail of this capability.
 
-OK, I think that’s everything (so far). Do keep the link to this document handy in case I add or change something. Even with this document, we’ll practice what we preached above about being flexible and going with the flow.
+## Good Night and Good Luck...
+OK, I think that’s everything (so far).  Do keep the link to this document handy in case I add or change something.  Even with this document, we’ll practice what we preached above about being flexible and going with the flow.
+
+Hang in there, everyone ~ I know this is a hassle in some ways, but it's a new experience which will be getting a LOT more traction after this event!  Try to treat it as another learning experience!
