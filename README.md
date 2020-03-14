@@ -20,7 +20,7 @@ Many aspects of the way that I already teach computer science courses will not c
 OK, so now here are the adjustments that we’re making to get fully online.
 
 ### Classes
-I will continue to hold classes at our scheduled times via Zoom. But again, _see the top section about taking care of yourself first_.  Duing the first class session online, I will be testing out the recording facility in zoom.  This is needed so that students in other time zones can have access to the lectures at a time that is more convenient than having to log in to zoom and like 3:00 AM their time.
+I will continue to hold classes at our scheduled times via Zoom. But again, _see the top section about taking care of yourself first_.  Duing the first class session online, I will be testing out the recording facility in zoom.  This is needed so that students in other time zones can have access to the lectures at a time that is more convenient than having to log in to zoom at like 3:00 AM their time.
 
 For all classes and other Zoom-related activities, we will use the following zoom links:
 * CMSI 387: https://lmula.zoom.us/j/977890753
@@ -34,10 +34,12 @@ For our first class session online, I plan to give everyone time to get acquaint
 
 There will be group sessions that will be used so you can have group time for your projects.  These are called "**breakout rooms**" in zoom.  I will set them up during class sessions.  This should facilitate you having time for team meetings and so forth.  It's a rather laborious process, so patience is appreciated.  If you wish, you can start your own zoom session and do things there.
 
-#### Time Zone Differences
-For students who will be living in different time zones, connecting to the live sessions and office hours may become infeasible (unless you are truly a night denizen and can now live by your true body clock 🌒🌔🌕🌖🌘).
+I'm still learning some of the features of zoom myself.  If you find a cool feature you want to share, or if you find/know a faster or more efficient way of doing something, **please don't hesitate to share!!**  We will all appreciate the knowledge and can use that to be more effective learners.
 
-If you are in this situation, note that the live sessions will be recorded and posted for viewing.  Feel free to view those whenever the time is right for you.
+#### Time Zone Differences
+For students who will be living in/attending from different time zones, connecting to the live sessions and office hours may become infeasible (unless you are truly a night denizen and can now live by your true body clock 🌒🌔🌕🌖🌘)\[cool graphic, Dondi!\].
+
+If you are in this situation, note that the live sessions will be recorded and posted for viewing.  Feel free to view those whenever the time is right for you.  The posting link will be shared, but for now it's TBA.
 
 For office hours and other direct interactions, the following options are available:
 
@@ -45,24 +47,25 @@ For office hours and other direct interactions, the following options are availa
 * Email at mailto:robert.johnson@lmu.edu
 * Slack at the appropriate LMUCS channel or in the #general channel
 
-With all of this stuff going on, we need to have a baseline time zone.  Since this is LMU, I will use Pacific time by default, so please bear that in mind if I state a date and time without being specific about time zone.
+With all of this stuff going on, we need to have a baseline time zone.  Since this is LMU, I will use Pacific Time by default, so please bear that in mind if I state a date and time without being specific about time zone.
 
 ### Office Hours
-I will continue to be available at my pre-scheduled office hours:
+I will continue to be available at my pre-scheduled office hours, liste here for convenience for Spring 2020 \[all times Pacific\]:
+
 * Tuesday 10:00 to 12:30
 * Tuesday 14:30 to 17:30
 * Wednesday 14:30 to 17:30
 * Thursday 10:00 to 12:30
 * Thursday 14:30 to 17:30
 
-The only change is that, instead of physically going to my office, you would just go to the following zoom link:  https://lmula.zoom.us/my/bjohnson05 Copy the invitation
+The only change is that, instead of physically going to my office, you would just go to the following zoom link:  https://lmula.zoom.us/my/bjohnson05
 
-This is NOT the same one that I’ll be using for class, since each class has its own zoom link as you can see above.
+_This is NOT the same one that I’ll be using for class_, since each class has its own zoom link as you can see above.
 
-Further, I will remain reachable (as before) via email (mailto:robert.johnson@lmu.edu) or Slack (@beej in the [Slack LMUCS workspace](https://lmucs.slack.com)).
+I will remain reachable (as before) via email (mailto:robert.johnson@lmu.edu) or Slack (@beej in the [Slack LMUCS workspace](https://lmucs.slack.com)).
 
 #### Office Hours for Students in a Different Time Zone
-As mentioned above, the regularly-scheduled office hour times might not work for students who are living in a different time zone. In those situations, please take advantage of the three possibilities listed above. Baseline rule: Maintain open, multiple communication channels. We will adjust as needed.
+As mentioned above, the regularly-scheduled office hour times might not work for students who are living in a different time zone. In those situations, please take advantage of the three possibilities listed above.  Baseline rule: Maintain open, multiple communication channels.  We will adjust as needed.
 
 ### Slack Channels
 Due to the anticipated increased use of Slack while we are fully online, I have created specific channels for our courses. This will help with putting related messages and threads together more easily. **PLEASE go to those channels and monitor them actively** while we are in 100% online mode:
@@ -84,7 +87,7 @@ All computing resources are finite.  Bandwidth is perhaps the prime resource tha
 
 Class and office hour video sessions consume a lot of resources and may get glitchy or go down.  You can try again as needed but don’t worry if you can’t reconnect; we’ll figure it out (see: multiple means of communication above).
 
-As long as I am able to do so, I will continue to record things so that if you can’t attend synchronously, you can watch things later (asynchronously). The only thing you lose is that live, interactive element ~ which can be made up for during \[virtual\] office hours or via Slack.  So bottom line: no worries, we’ll work something out.
+As long as I am able to do so, I will continue to record things so that if you can’t attend synchronously, you can watch things later \[asynchronously\]. The only thing you lose is the live, interactive element ~ which can be made up for during \[virtual\] office hours or via Slack.  So bottom line: no worries, we’ll work something out.
 
 ### Maximize live session success by learning how to control your feed
 * It’s nice to see everyone’s faces while conducting a live session, but not at the cost of someone’s discomfort or insufficient bandwidth, so be cognizant of those factors and situate yourself as you see fit.  I won’t mind either way.
